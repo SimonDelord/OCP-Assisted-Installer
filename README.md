@@ -40,3 +40,5 @@ after a few minutes, the NUCs should come online and you will be able to change 
 
 ## 9th step: connect to the cluster
 you may have to change your DNS settings on your laptop or on your DNS server to reach the OCP cluster.
+
+You can check the video of this demo at https://youtu.be/4ptK9tiKNik
